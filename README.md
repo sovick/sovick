@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sovick
 - 👀 I’m interested in backend technologies
 - 🌱 I’m currently learning node.js, react.js, golang and micro-services
-- 💞️ I’m looking to collaborate on ...
 - 📫 reach me at dev.sovick@gmail.com
 
 <!---
